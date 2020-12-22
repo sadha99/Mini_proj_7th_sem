@@ -8,4 +8,5 @@ Some of the classification techniques used are as follows :
   3) Random Forest 
   4) KNN
   5) Naive Bayes
+  6) Decision tree Regressor
   
