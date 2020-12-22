@@ -1,7 +1,7 @@
 # Mini_proj_7th_sem
 Heart Disease prediction using machine learning classification techniques
 
-We use multiple classification techqiues on the UCI heart data set and predict if a patient does have a heart disease or not.
+We use multiple classification techniques on the UCI heart data set and predict if a patient does have a heart disease or not.
 Some of the classification techniques used are as follows :
   1) SVM
   2) Decision Tress
